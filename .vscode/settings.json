@@ -1,0 +1,10 @@
+{
+    "prettier.endOfLine": "auto",
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "prettier.tabWidth": 4,
+    "prettier.jsxBracketSameLine": true,
+    "javascript.format.enable": false,
+    "editor.formatOnSave": true
+}
